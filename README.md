@@ -22,7 +22,7 @@ To start using the medical appointments app, follow these steps:
 ### Installation:
 1. Clone the repository: `git clone https://github.com/usuario/proyecto-citas-app.git`
 2. Run the app: `nodemon index.js`
-3. Open the browser [Local](http://localhost:3000/)
+3. Open the browser `http://localhost:3000` 
 
 ## 📚 More Information
 
