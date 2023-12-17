@@ -45,4 +45,8 @@ Below is a visual sample of the application:
 
 To see a demonstration of the application, check out [this video](https://drive.google.com/file/d/1oaoBJtT7NF9sOUs8pWO0XTKKTv7qz5-O/view?usp=sharing).
 
+## 💬 Feedback
+
+We value your feedback! Feel free to leave any comments or suggestions. Your input is greatly appreciated and helps us improve the Medical Appointments App.
+
 This medical appointments app offers a practical and user-friendly solution for managing medical schedules. We hope you find this tool helpful for your project!
